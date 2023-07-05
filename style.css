@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    border:1px solid;
+}
+body {
+    width:1440px;
+    height:900px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:#4D5063;
+}
+.main {
+    border:1px solid;
+    width:1300px;
+    height:800px
+}
+.main_top {
+    border:1px solid;
+}
+.text1 {
+    border:1px solid;
+    text-align: center;
+    font-size:2.2rem;
+    font-weight: 200;
+}
+.text2 {
+    border:1px solid;
+    text-align: center;
+    font-size:2.2rem;
+    font-weight: 600;
+}
+.text3 {
+    border:1px solid;
+    text-align: center;
+    padding:20px 370px;
+    color:#BABABC;
+}
+.main_bottom {
+    border:1px solid;
+    display:flex;
+    flex-direction: row;
+}
+.bottom_1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid;
+    width:433.33px;
+    height:600px;
+}
+.bottom_2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:center;
+    border:1px solid;
+    width:433.33px;
+    height:600px;
+}
+.bottom_3 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid;
+    width:433.33px;
+    height:600px;
+}
+.box {
+    border-radius: 10px 10px 15px 15px;
+    width:350px;
+    height:250px;
+    box-shadow: 5px 5px 5px #D8E1EA;
+}
+.content {
+    padding:20px;
+}
+.supervisor {
+    font-weight: 800;
+    font-size:20px;
+}
+.info {
+    font-size:13px;
+    color:hsl(229, 6%, 66%);
+    padding-right:30px;
+}
+.image {
+    float:right;
+    padding-top:50px;
+}
+.blue {
+    height:5px;
+    background-color:#46D2D1 ;
+    border-radius:15px 15px 0 0 ;
+}
+.red {
+    height:5px;
+    background-color:hsl(0, 78%, 62%) ;
+    border-radius:15px 15px 0 0 ;
+}
+.yellow {
+    height:5px;
+    background-color:hsl(34, 97%, 64%) ;
+    border-radius:15px 15px 0 0 ;
+}
+.blue2 {
+    height:5px;
+    background-color:hsl(212, 86%, 64%) ;
+    border-radius:15px 15px 0 0 ;
+}
