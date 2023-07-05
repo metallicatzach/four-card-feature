@@ -3,7 +3,6 @@
     margin:0;
     padding:0;
     font-family: 'Poppins', sans-serif;
-    border:1px solid;
 }
 body {
     width:1440px;
@@ -14,33 +13,25 @@ body {
     color:#4D5063;
 }
 .main {
-    border:1px solid;
     width:1300px;
     height:800px
 }
-.main_top {
-    border:1px solid;
-}
 .text1 {
-    border:1px solid;
     text-align: center;
     font-size:2.2rem;
     font-weight: 200;
 }
 .text2 {
-    border:1px solid;
     text-align: center;
     font-size:2.2rem;
     font-weight: 600;
 }
 .text3 {
-    border:1px solid;
     text-align: center;
     padding:20px 370px;
     color:#BABABC;
 }
 .main_bottom {
-    border:1px solid;
     display:flex;
     flex-direction: row;
 }
@@ -48,7 +39,6 @@ body {
     display:flex;
     justify-content: center;
     align-items: center;
-    border:1px solid;
     width:433.33px;
     height:600px;
 }
@@ -57,7 +47,6 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items:center;
-    border:1px solid;
     width:433.33px;
     height:600px;
 }
@@ -65,7 +54,6 @@ body {
     display:flex;
     justify-content: center;
     align-items: center;
-    border:1px solid;
     width:433.33px;
     height:600px;
 }
